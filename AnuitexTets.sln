@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnuitexTets", "AnuitexTets\AnuitexTets.csproj", "{68EF6BA2-0F27-4967-9C9B-9D08A2BD9D8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68EF6BA2-0F27-4967-9C9B-9D08A2BD9D8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68EF6BA2-0F27-4967-9C9B-9D08A2BD9D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68EF6BA2-0F27-4967-9C9B-9D08A2BD9D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68EF6BA2-0F27-4967-9C9B-9D08A2BD9D8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14F5C2C3-804A-4FD5-9B60-F15535DC0975}
+	EndGlobalSection
+EndGlobal
